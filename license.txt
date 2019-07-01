@@ -175,4 +175,4 @@
 
 	END OF TERMS AND CONDITIONS
 Succesful build in Jenkins on Monday
-Successful testing and build on monday
+Successful testing and build on Monday
